@@ -1,0 +1,1 @@
+add_executable(Q123 q123.c)
